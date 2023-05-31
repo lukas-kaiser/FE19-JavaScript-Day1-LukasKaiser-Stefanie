@@ -1,0 +1,17 @@
+let fruitBasket = "mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
+let individualFruit = fruitBasket.split("/");
+document.write(individualFruit[0]);
+document.write("<br>");
+document.write(individualFruit[1]);
+document.write("<br>");
+document.write(individualFruit[2]);
+document.write("<br>");
+document.write(individualFruit[3]);
+document.write("<br>");
+document.write(individualFruit[4]);
+document.write("<br>");
+document.write(individualFruit[5]);
+document.write("<br>");
+document.write(individualFruit[6]);
+document.write("<br>");
+document.write(individualFruit[7]);
